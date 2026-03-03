@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.1) (preloaded format=xelatex 2026.3.3)  4 MAR 2026 00:54
+This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.1) (preloaded format=xelatex 2026.3.3)  4 MAR 2026 01:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -233,8 +233,8 @@ Package: amsthm 2020/05/29 v2.20.6
 \thm@postskip=\skip61
 \thm@headsep=\skip62
 \dth@everypar=\toks30
-) (C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
-Package: longtable 2025-10-13 v4.24 Multi-page Table package (DPC)
+) (longtable.sty
+Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
 \LTleft=\skip63
 \LTright=\skip64
 \LTpre=\skip65
@@ -245,7 +245,6 @@ Package: longtable 2025-10-13 v4.24 Multi-page Table package (DPC)
 \LT@firsthead=\box58
 \LT@foot=\box59
 \LT@lastfoot=\box60
-\LT@gbox=\box61
 \LT@cols=\count315
 \LT@rows=\count316
 \c@LT@tables=\count317
@@ -254,12 +253,12 @@ Package: longtable 2025-10-13 v4.24 Multi-page Table package (DPC)
 ) (C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
 Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
 \col@sep=\dimen187
-\ar@mcellbox=\box62
+\ar@mcellbox=\box61
 \extrarowheight=\dimen188
 \NC@list=\toks32
 \extratabsurround=\skip67
 \backup@length=\skip68
-\ar@cellbox=\box63
+\ar@cellbox=\box62
 ) (C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
 Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
 \multirow@colwidth=\skip69
@@ -287,7 +286,7 @@ Package: enumitem 2025/02/06 v3.11 Customized lists
 \labelindent=\skip71
 \enit@outerparindent=\dimen199
 \enit@toks=\toks34
-\enit@inbox=\box64
+\enit@inbox=\box63
 \enit@count@id=\count322
 \enitdp@description=\count323
 ) (C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty (C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty (C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
@@ -295,7 +294,7 @@ Package: enumitem 2025/02/06 v3.11 Customized lists
 \pgfutil@tempdima=\dimen256
 \pgfutil@tempdimb=\dimen257
 ) (C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
-\pgfutil@abb=\box65
+\pgfutil@abb=\box64
 ) (C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex (C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
 Package: pgfrcs 2025-08-29 v3.1.11a (3.1.11a)
 ))
@@ -351,7 +350,7 @@ Package: pgfcore 2025-08-29 v3.1.11a (3.1.11a)
  (C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex (C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex) (C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
 \pgfmath@dimen=\dimen268
 \pgfmath@count=\count332
-\pgfmath@box=\box66
+\pgfmath@box=\box65
 \pgfmath@toks=\toks42
 \pgfmath@stack@operand=\toks43
 \pgfmath@stack@operation=\toks44
@@ -383,9 +382,9 @@ File: pgfcorepathusage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@shorten@start@additional=\dimen286
 ) (C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgfpic=\box67
-\pgf@hbox=\box68
-\pgf@layerbox@main=\box69
+\pgfpic=\box66
+\pgf@hbox=\box67
+\pgf@layerbox@main=\box68
 \pgf@picture@serial@count=\count334
 ) (C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2025-08-29 v3.1.11a (3.1.11a)
@@ -413,7 +412,7 @@ File: pgfcoreshade.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 File: pgfcoreimage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 ) (C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
 File: pgfcoreexternal.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgfexternal@startupbox=\box70
+\pgfexternal@startupbox=\box69
 ) (C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
 File: pgfcorelayers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 ) (C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
@@ -424,7 +423,7 @@ File: pgfcorepatterns.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 File: pgfcorerdf.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 ))) (C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgfnodeparttextbox=\box71
+\pgfnodeparttextbox=\box70
 ) (C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
 File: pgfmoduleplot.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 ) (C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
@@ -454,10 +453,10 @@ File: pgflibraryplothandlers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \tikz@lastmovetoy=\dimen303
 \tikzleveldistance=\dimen304
 \tikzsiblingdistance=\dimen305
-\tikz@figbox=\box72
-\tikz@figbox@bg=\box73
-\tikz@tempbox=\box74
-\tikz@tempbox@bg=\box75
+\tikz@figbox=\box71
+\tikz@figbox@bg=\box72
+\tikz@tempbox=\box73
+\tikz@tempbox@bg=\box74
 \tikztreelevel=\count338
 \tikznumberofchildren=\count339
 \tikznumberofcurrentchild=\count340
@@ -475,9 +474,9 @@ File: tikzlibrarytopaths.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count346
 \float@exts=\toks47
-\float@box=\box76
+\float@box=\box75
 \@float@everytoks=\toks48
-\@floatcapt=\box77
+\@floatcapt=\box76
 ) (C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
 Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
  (C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
@@ -556,13 +555,13 @@ Package: eso-pic 2025/12/10 v3.0d eso-pic (RN)
 File: ppxetex.def 2025/07/23 v0.6g Pdfpages driver for XeTeX (AM)
 )
 \pdfpages@includegraphics@status=\count361
-\AM@pagebox=\box78
+\AM@pagebox=\box77
 \AM@global@opts=\toks50
 \AM@pagecnt=\count362
 \AM@toc@title=\toks51
 \AM@lof@heading=\toks52
 \c@AM@survey=\count363
-\AM@templatesizebox=\box79
+\AM@templatesizebox=\box78
 ) (C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
 Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 \f@nch@headwidth=\skip72
@@ -622,7 +621,7 @@ Package tocloft Info: The document has chapter divisions on input line 51.
 ) (C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
 Package: multicol 2025/10/21 v2.0b multicolumn formatting (FMi)
 \c@tracingmulticols=\count366
-\mult@box=\box80
+\mult@box=\box79
 \multicol@leftmargin=\dimen319
 \c@unbalance=\count367
 \c@collectmore=\count368
@@ -635,14 +634,15 @@ Package: multicol 2025/10/21 v2.0b multicolumn formatting (FMi)
 \postmulticols=\dimen323
 \multicolsep=\skip120
 \multicolbaselineskip=\skip121
-\partial@page=\box81
-\last@line=\box82
-\mc@boxedresult=\box83
+\partial@page=\box80
+\last@line=\box81
+\mc@boxedresult=\box82
 \maxbalancingoverflow=\dimen324
-\mult@rightbox=\box84
-\mult@grightbox=\box85
-\mult@firstbox=\box86
-\mult@gfirstbox=\box87
+\mult@rightbox=\box83
+\mult@grightbox=\box84
+\mult@firstbox=\box85
+\mult@gfirstbox=\box86
+\@tempa=\box87
 \@tempa=\box88
 \@tempa=\box89
 \@tempa=\box90
@@ -678,22 +678,21 @@ Package: multicol 2025/10/21 v2.0b multicolumn formatting (FMi)
 \@tempa=\box120
 \@tempa=\box121
 \@tempa=\box122
-\@tempa=\box123
 \c@minrows=\count372
 \c@columnbadness=\count373
 \c@finalcolumnbadness=\count374
 \last@try=\dimen325
 \multicolovershoot=\dimen326
 \multicolundershoot=\dimen327
-\mult@nat@firstbox=\box124
-\colbreak@box=\box125
+\mult@nat@firstbox=\box123
+\colbreak@box=\box124
 \mc@col@check@num=\count375
 \g__mc_curr_col_int=\count376
 ) (C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
 \wrapoverhang=\dimen328
 \WF@size=\dimen329
 \c@WF@wrappedlines=\count377
-\WF@box=\box126
+\WF@box=\box125
 \WF@everypar=\toks54
 Package: wrapfig 2003/01/31  v 3.6
 ) (C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
@@ -708,19 +707,19 @@ Package: environ 2014/05/04 v0.3 A new way to define environments
  (C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces\trimspaces.sty
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 ))
-\tcb@titlebox=\box127
-\tcb@upperbox=\box128
-\tcb@lowerbox=\box129
-\tcb@phantombox=\box130
+\tcb@titlebox=\box126
+\tcb@upperbox=\box127
+\tcb@lowerbox=\box128
+\tcb@phantombox=\box129
 \c@tcbbreakpart=\count378
 \c@tcblayer=\count379
 \c@tcolorbox@number=\count380
-\l__tcobox_tmpa_box=\box131
+\l__tcobox_tmpa_box=\box130
 \l__tcobox_tmpa_dim=\dimen330
+\tcb@temp=\box131
 \tcb@temp=\box132
 \tcb@temp=\box133
 \tcb@temp=\box134
-\tcb@temp=\box135
  (C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbraster.code.tex
 Library (tcolorbox): 'tcbraster.code.tex' version '6.9.0'
 \c@tcbrastercolumn=\count381
@@ -735,7 +734,7 @@ Package: tikzfill.image 2023/08/08 v1.0.1 Image filling library for TikZ
 Package: tikzfill-common 2023/08/08 v1.0.1 Auxiliary code for tikzfill
 ) (C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex/latex/tikzfill\tikzlibraryfill.image.code.tex
 File: tikzlibraryfill.image.code.tex 2023/08/08 v1.0.1 Image filling library
-\l__tikzfill_img_box=\box136
+\l__tikzfill_img_box=\box135
 )) (C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbskinsjigsaw.code.tex
 Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '6.9.0'
 )) (C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbbreakable.code.tex
@@ -750,9 +749,9 @@ Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 Package pdfcol Info: Interface disabled because of missing PDF mode of pdfTeX.
 )
 Package pdfcol Info: pdfTeX's color stacks are not available.
-\tcb@testbox=\box137
-\tcb@totalupperbox=\box138
-\tcb@totallowerbox=\box139
+\tcb@testbox=\box136
+\tcb@totalupperbox=\box137
+\tcb@totallowerbox=\box138
 ) (C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbhooks.code.tex
 Library (tcolorbox): 'tcbhooks.code.tex' version '6.9.0'
 ) (C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbtheorems.code.tex
@@ -769,7 +768,7 @@ Library (tcolorbox): 'tcblistingsutf8.code.tex' version '6.9.0'
 Library (tcolorbox): 'tcblistings.code.tex' version '6.9.0'
 (C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
 \lst@mode=\count386
-\lst@gtempboxa=\box140
+\lst@gtempboxa=\box139
 \lst@token=\toks57
 \lst@length=\count387
 \lst@currlwidth=\dimen334
@@ -786,7 +785,7 @@ File: lstpatch.sty 2025/11/14 1.11b (Carsten Heinz)
 File: lstmisc.sty 2025/11/14 1.11b (Carsten Heinz)
 \c@lstnumber=\count392
 \lst@skipnumbers=\count393
-\lst@framebox=\box141
+\lst@framebox=\box140
 ) (C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
 File: listings.cfg 2025/11/14 1.11b listings configuration
 ))
@@ -827,7 +826,7 @@ Package: colortbl 2024/10/29 v1.0k Color table columns (DPC)
 Package: tabu 2019/01/11 v2.9 - flexible LaTeX tabulars (FC+tabu-fixed)
  (C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
-\@vwid@box=\box142
+\@vwid@box=\box141
 \sift@deathcycles=\count396
 \@vwid@loff=\dimen338
 \@vwid@roff=\dimen339
@@ -850,10 +849,10 @@ Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \tabustrutrule=\dimen348
 \tabu@thebody=\toks59
 \tabu@footnotes=\toks60
-\tabu@box=\box143
-\tabu@arstrutbox=\box144
-\tabu@hleads=\box145
-\tabu@vleads=\box146
+\tabu@box=\box142
+\tabu@arstrutbox=\box143
+\tabu@hleads=\box144
+\tabu@vleads=\box145
 \tabu@cellskip=\skip123
 ) (C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2026-01-29 v7.01p Hypertext links for LaTeX
@@ -938,11 +937,16 @@ Package hyperref Info: PDF/A mode OFF on input line 6114.
 \Hy@abspage=\count409
 \c@Item=\count410
 \c@Hfootnote=\count411
+
+
+LaTeX Warning: Command \LT@p@ftntext  has changed.
+               Check if current package is valid.
+
 )
 Package hyperref Info: Driver (autodetected): hxetex.
  (C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hxetex.def
 File: hxetex.def 2026-01-29 v7.01p Hyperref driver for XeTeX
-\pdfm@box=\box147
+\pdfm@box=\box146
 \c@Hy@AnnotLevel=\count412
 \HyField@AnnotCount=\count413
 \Fld@listcount=\count414
@@ -959,8 +963,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 Package: etoc 2023/10/29 v1.2d Completely customisable TOCs (JFB)
 \Etoc@toctoks=\toks61
 \c@etoc@tocid=\count416
-\etoc@framed@titlebox=\box148
-\etoc@framed@contentsbox=\box149
+\etoc@framed@titlebox=\box147
+\etoc@framed@contentsbox=\box148
 ) (C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.sty
 Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
  (C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bkm-dvipdfm.def
@@ -1084,8 +1088,8 @@ Package minitoc Info: I0023
 Package minitoc Info: I0003
 (minitoc)             chapter level macros available.
 \mtc@toks=\toks62
-\mtc@strutbox=\box150
-\mtc@hstrutbox=\box151
+\mtc@strutbox=\box149
+\mtc@hstrutbox=\box150
 Package minitoc Info: I0002
 (minitoc)             Autoconfiguration of extensions.
 \openout4 = `"main-project01 .mtc0"'.
@@ -1450,7 +1454,11 @@ Overfull \hbox (19.04918pt too wide) in alignment at lines 3--21
  [] [] [] [] 
  []
 
-calculation.tex:21: ignored: Infinite glue shrinkage found in box being split [6
+
+Underfull \vbox (badness 10000) detected at line 21
+ []
+
+[6
 
 ]) [7] (Designdrawing.tex) [8
 
@@ -1561,12 +1569,12 @@ L3 programming layer <2026-01-19>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 40607 strings out of 402982
- 819238 string characters out of 5448060
- 1467868 words of memory out of 5000000
- 68715 multiletter control sequences out of 15000+600000
+ 40601 strings out of 402982
+ 819053 string characters out of 5448060
+ 1467304 words of memory out of 5000000
+ 68709 multiletter control sequences out of 15000+600000
  635725 words of font info for 93 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 89i,18n,118p,597b,2121s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 89i,18n,118p,597b,2114s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main-project01 .xdv (27 pages, 101608 bytes).
+Output written on main-project01 .xdv (27 pages, 102792 bytes).
