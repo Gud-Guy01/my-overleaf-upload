@@ -177,10 +177,10 @@ Script=Khmer,
 % \counterwithin{equation}{section}
 % \counterwithin{figure}{section}
 % \counterwithin{table}{section}
-
+%numbering
 \renewcommand{\thesection}{\arabic{section}}
-\renewcommand{\thefigure}{\thechapter.\thelesson.\arabic{section}.\arabic{figure}}
-\renewcommand{\thetable}{\thechapter.\thelesson.\arabic{section}.\arabic{table}}
+\renewcommand{\thefigure}{\arabic{section}.\arabic{figure}}
+\renewcommand{\thetable}{\arabic{section}.\arabic{table}}
 
 % ==================== LESSON COMMAND (FIXED) ====================
 \newcommand{\lesson}[1]{%

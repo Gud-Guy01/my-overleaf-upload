@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.1) (preloaded format=xelatex 2026.3.3)  4 MAR 2026 00:40
+This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.1) (preloaded format=xelatex 2026.3.3)  4 MAR 2026 00:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1280,10 +1280,10 @@ Package minitoc Info: I0024
 {\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {5}Design \& Optimization Process}{\reset@font\mtcSfont 5}{section.0.5}}
 {\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {6}Detailed Design Calculations}{\reset@font\mtcSfont 6}{section.0.6}}
 {\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.1}Load}{\reset@font\mtcSSfont 6}{subsection.0.6.1}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {7}Design Drawings}{\reset@font\mtcSfont 7}{section.0.7}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {8}Results, Discussion \& Conclusion}{\reset@font\mtcSfont 8}{section.0.8}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode References}{\reset@font\mtcSfont 9}{section*.1}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode Appendices}{\reset@font\mtcSfont 10}{section*.2}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {7}Design Drawings}{\reset@font\mtcSfont 8}{section.0.7}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {8}Results, Discussion \& Conclusion}{\reset@font\mtcSfont 9}{section.0.8}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode References}{\reset@font\mtcSfont 10}{section*.1}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode Appendices}{\reset@font\mtcSfont 11}{section*.2}}
 \tf@toc=\write5
 \openout5 = `"main-project01 .toc"'.
 
@@ -1445,13 +1445,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--3
 
  []
 
-) [6
 
-] (Designdrawing.tex) [7
+Overfull \hbox (19.04918pt too wide) in alignment at lines 3--21
+ [] [] [] [] 
+ []
 
-] (Result.tex) [8
+calculation.tex:21: ignored: Infinite glue shrinkage found in box being split [6
 
-] [9
+]) [7] (Designdrawing.tex) [8
+
+] (Result.tex) [9
+
+] [10
 
 ] (Appendices.tex
 File: plan1.pdf Graphic file (type pdf)
@@ -1460,61 +1465,61 @@ File: plan1.pdf Graphic file (type pdf)
 <use plan1.pdf, page 1>
 File: plan1.pdf Graphic file (type pdf)
 <use plan1.pdf, page 1>
- [10
-
-]
-File: plan1.pdf Graphic file (type pdf)
-<use plan1.pdf, page 1>
-File: plan1.pdf Graphic file (type pdf)
-<use plan1.pdf, page 1>
-File: plan1.pdf Graphic file (type pdf)
-<use plan1.pdf, page 1>
  [11
 
 ]
 File: plan1.pdf Graphic file (type pdf)
-<use plan1.pdf, page 2>
+<use plan1.pdf, page 1>
 File: plan1.pdf Graphic file (type pdf)
-<use plan1.pdf, page 2>
+<use plan1.pdf, page 1>
 File: plan1.pdf Graphic file (type pdf)
-<use plan1.pdf, page 2>
+<use plan1.pdf, page 1>
  [12
 
 ]
 File: plan1.pdf Graphic file (type pdf)
-<use plan1.pdf, page 3>
+<use plan1.pdf, page 2>
 File: plan1.pdf Graphic file (type pdf)
-<use plan1.pdf, page 3>
+<use plan1.pdf, page 2>
 File: plan1.pdf Graphic file (type pdf)
-<use plan1.pdf, page 3>
+<use plan1.pdf, page 2>
  [13
 
 ]
 File: plan1.pdf Graphic file (type pdf)
-<use plan1.pdf, page 4>
+<use plan1.pdf, page 3>
 File: plan1.pdf Graphic file (type pdf)
-<use plan1.pdf, page 4>
+<use plan1.pdf, page 3>
 File: plan1.pdf Graphic file (type pdf)
-<use plan1.pdf, page 4>
+<use plan1.pdf, page 3>
  [14
 
 ]
 File: plan1.pdf Graphic file (type pdf)
-<use plan1.pdf, page 5>
+<use plan1.pdf, page 4>
 File: plan1.pdf Graphic file (type pdf)
-<use plan1.pdf, page 5>
+<use plan1.pdf, page 4>
 File: plan1.pdf Graphic file (type pdf)
-<use plan1.pdf, page 5>
+<use plan1.pdf, page 4>
  [15
 
 ]
 File: plan1.pdf Graphic file (type pdf)
-<use plan1.pdf, page 6>
+<use plan1.pdf, page 5>
 File: plan1.pdf Graphic file (type pdf)
-<use plan1.pdf, page 6>
+<use plan1.pdf, page 5>
 File: plan1.pdf Graphic file (type pdf)
-<use plan1.pdf, page 6>
+<use plan1.pdf, page 5>
  [16
+
+]
+File: plan1.pdf Graphic file (type pdf)
+<use plan1.pdf, page 6>
+File: plan1.pdf Graphic file (type pdf)
+<use plan1.pdf, page 6>
+File: plan1.pdf Graphic file (type pdf)
+<use plan1.pdf, page 6>
+ [17
 
 ]
 File: plan1.pdf Graphic file (type pdf)
@@ -1523,7 +1528,7 @@ File: plan1.pdf Graphic file (type pdf)
 <use plan1.pdf, page 7>
 File: plan1.pdf Graphic file (type pdf)
 <use plan1.pdf, page 7>
- [17
+ [18
 
 ])
 Package minitoc Info: I0009
@@ -1547,7 +1552,7 @@ Package minitoc(hints) Warning: W0024
 (minitoc(hints))                Some hints have been written 
 (minitoc(hints))                in the "main-project01 ".log file.
 
-[18] 
+[19] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (main-project01 .aux)
  ***********
@@ -1556,12 +1561,12 @@ L3 programming layer <2026-01-19>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 40571 strings out of 402982
- 818676 string characters out of 5448060
- 1453875 words of memory out of 5000000
- 68690 multiletter control sequences out of 15000+600000
- 631064 words of font info for 73 fonts, out of 8000000 for 9000
+ 40607 strings out of 402982
+ 819238 string characters out of 5448060
+ 1467868 words of memory out of 5000000
+ 68715 multiletter control sequences out of 15000+600000
+ 635725 words of font info for 93 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 89i,18n,118p,597b,2114s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 89i,18n,118p,597b,2121s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main-project01 .xdv (26 pages, 83164 bytes).
+Output written on main-project01 .xdv (27 pages, 101608 bytes).
