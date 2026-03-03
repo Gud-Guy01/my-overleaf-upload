@@ -77,6 +77,7 @@
 \xpg@aux {}{english}
 \xpg@aux {}{english}
 \xpg@aux {}{english}
+\contentsline {section}{\numberline {7}Design Drawings}{8}{section.0.7}%
 \xpg@aux {}{english}
 \xpg@aux {}{english}
 \xpg@aux {}{english}
@@ -85,7 +86,7 @@
 \xpg@aux {}{english}
 \xpg@aux {}{english}
 \xpg@aux {}{english}
-\contentsline {section}{\numberline {7}Design Drawings}{9}{section.0.7}%
+\contentsline {section}{\numberline {8}Results, Discussion \& Conclusion}{9}{section.0.8}%
 \xpg@aux {}{english}
 \xpg@aux {}{english}
 \xpg@aux {}{english}
@@ -94,7 +95,7 @@
 \xpg@aux {}{english}
 \xpg@aux {}{english}
 \xpg@aux {}{english}
-\contentsline {section}{\numberline {8}Results, Discussion \& Conclusion}{10}{section.0.8}%
+\contentsline {section}{References}{10}{section*.1}%
 \xpg@aux {}{english}
 \xpg@aux {}{english}
 \xpg@aux {}{english}
@@ -103,16 +104,7 @@
 \xpg@aux {}{english}
 \xpg@aux {}{english}
 \xpg@aux {}{english}
-\contentsline {section}{References}{11}{section*.2}%
-\xpg@aux {}{english}
-\xpg@aux {}{english}
-\xpg@aux {}{english}
-\xpg@aux {}{english}
-\xpg@aux {}{english}
-\xpg@aux {}{english}
-\xpg@aux {}{english}
-\xpg@aux {}{english}
-\contentsline {section}{Appendices}{12}{section*.3}%
+\contentsline {section}{Appendices}{11}{section*.2}%
 \xpg@aux {}{english}
 \xpg@aux {}{english}
 \xpg@aux {}{english}
