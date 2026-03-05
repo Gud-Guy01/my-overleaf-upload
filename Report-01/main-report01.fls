@@ -1,7 +1,7 @@
 PWD c:\Drive D\overleaf\Wood Project\Report-01
 INPUT C:\Users\GooDGuy\AppData\Local\MiKTeX\miktex\data\le\xetex\xelatex.fmt
-INPUT c:\Drive D\overleaf\Wood Project\Report-01\main-report01 .tex
-OUTPUT main-report01 .log
+INPUT c:\Drive D\overleaf\Wood Project\Report-01\main-report01.tex
+OUTPUT main-report01.log
 INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
 INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
 INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
@@ -365,13 +365,13 @@ INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\minitoc\minitoc.s
 INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\minitoc\minitoc.sty
 INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\minitoc\mtcmess.sty
 INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\minitoc\mtcmess.sty
-OUTPUT main-report01 .mtc0
-OUTPUT main-report01 .mtc
-INPUT .\main-report01 .mtc0
-INPUT .\main-report01 .mtc0
-INPUT main-report01 .mtc0
-OUTPUT main-report01 .mtc
-OUTPUT main-report01 .mtc0
+OUTPUT main-report01.mtc0
+OUTPUT main-report01.mtc
+INPUT .\main-report01.mtc0
+INPUT .\main-report01.mtc0
+INPUT main-report01.mtc0
+OUTPUT main-report01.mtc
+OUTPUT main-report01.mtc0
 INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\minitoc\acadian.mld
 INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\minitoc\acadian.mld
 INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\minitoc\acadien.mld
@@ -808,3 +808,62 @@ INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\minitoc\xalx3.mld
 INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\minitoc\xalx3.mld
 INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\minitoc\english.mld
 INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\minitoc\english.mld
+INPUT .\headerfooter-report01.tex
+INPUT .\headerfooter-report01.tex
+INPUT headerfooter-report01.tex
+INPUT .\main-report01.aux
+INPUT .\main-report01.aux
+INPUT main-report01.aux
+OUTPUT main-report01.aux
+INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape.sty
+INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape.sty
+INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape-nometadata.sty
+INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape-nometadata.sty
+INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\graphics\lscape.sty
+INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\graphics\lscape.sty
+INPUT .\main-report01.toc
+INPUT .\main-report01.toc
+INPUT main-report01.toc
+INPUT main-report01.toc
+OUTPUT main-report01.toc
+INPUT .\substructure-report01.tex
+INPUT .\substructure-report01.tex
+INPUT substructure-report01.tex
+INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\generic\stringenc\se-ascii-print.def
+INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\generic\stringenc\se-ascii-print.def
+INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\generic\stringenc\se-ascii-print.def
+OUTPUT main-report01.xdv
+OUTPUT main-report01.toc
+INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
+INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
+INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsa.fd
+INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsa.fd
+INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsa.fd
+INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
+INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
+INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
+INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT .\main-report01.lof
+INPUT .\main-report01.lof
+INPUT main-report01.lof
+OUTPUT main-report01.lof
+INPUT .\main-report01.lot
+INPUT .\main-report01.lot
+INPUT main-report01.lot
+OUTPUT main-report01.lot
+INPUT .\Intro.tex
+INPUT .\Intro.tex
+INPUT Intro.tex
+OUTPUT main-report01.maf
+INPUT .\main-report01.mtc
+INPUT .\main-report01.mtc
+INPUT main-report01.aux
