@@ -1,0 +1,45 @@
+%...existing code...
+% !TeX root = main-report01.tex
+%\documentclass[12pt,twoside,a4paper,openany]{report}
+\documentclass[12pt,a4paper]{report}
+% === Put them here, in the preamble ===
+
+% Load project structure if available; don't fail LaTeX if file is missing
+\input{../Structure4all.tex}
+
+\input{headerfooter-project01.tex}
+
+%------------------------%
+%document DOCUMENT START
+%------------------------%
+\begin{document}
+
+%cover
+% \includepdf[pages=-]{Cover (2)}
+% Include substructure file if present; otherwise continue without error
+\input{substructure-project01.tex}
+\section{Intro}
+hello there
+\clearpage
+%referennces
+\phantomsection %Creates a hyperlink anchor (jump to that page when click)
+\renewcommand{\chapter}{\section}
+\renewcommand{\thechapter}{} % edit chapter numbering from here.
+\renewcommand{\bibname}{References}  % change Bibliography -> References globally
+%\thispagestyle{empty}  % optional: remove headers/footers
+\begin{thebibliography}{99}
+\addcontentsline{toc}{section}{References}
+\bibitem{1} let say ref1.
+\bibitem{2}
+let say ref2.
+\end{thebibliography}
+
+\noindent \textcolor{red}{\textit{Note that :} We may use the referennces provide by professor (check in telegram group) if it still not enought we can add more maybe.}
+% \clearpage
+% \phantomsection %Creates a hyperlink anchor (jump to that page when click)
+% \section*{Appendices}
+% \markright{Appendices} % still make markright work eventhough using \section*{}
+% \addcontentsline{toc}{section}{Appendices}
+
+\end{document}
+%...existing code...
