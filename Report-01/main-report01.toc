@@ -72,7 +72,24 @@
 \xpg@aux {}{english}
 \xpg@aux {}{english}
 \contentsline {section}{\numberline {7}Conclusions}{7}{section.0.7}%
-\contentsline {section}{References}{7}{section*.1}%
+\xpg@aux {}{english}
+\xpg@aux {}{english}
+\xpg@aux {}{english}
+\xpg@aux {}{english}
+\xpg@aux {}{english}
+\xpg@aux {}{english}
+\xpg@aux {}{english}
+\xpg@aux {}{english}
+\contentsline {section}{References}{8}{section*.1}%
+\xpg@aux {}{english}
+\xpg@aux {}{english}
+\xpg@aux {}{english}
+\xpg@aux {}{english}
+\xpg@aux {}{english}
+\xpg@aux {}{english}
+\xpg@aux {}{english}
+\xpg@aux {}{english}
+\contentsline {section}{Appendices}{9}{section*.2}%
 \xpg@aux {}{english}
 \xpg@aux {}{english}
 \xpg@aux {}{english}

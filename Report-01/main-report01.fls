@@ -875,6 +875,15 @@ INPUT result.tex
 INPUT .\calculationandanalysis.tex
 INPUT .\calculationandanalysis.tex
 INPUT calculationandanalysis.tex
+INPUT .\discussion.tex
+INPUT .\discussion.tex
+INPUT discussion.tex
+INPUT .\conclution.tex
+INPUT .\conclution.tex
+INPUT conclution.tex
+INPUT .\appendices.tes
+INPUT .\appendices.tes
+INPUT appendices.tes
 OUTPUT main-report01.maf
 INPUT .\main-report01.mtc
 INPUT .\main-report01.mtc

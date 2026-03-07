@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.1) (preloaded format=xelatex 2026.3.3)  7 MAR 2026 13:05
+This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.1) (preloaded format=xelatex 2026.3.3)  7 MAR 2026 13:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1283,7 +1283,8 @@ Package minitoc Info: I0024
 {\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {5}Calculations \& Analysis }{\reset@font\mtcSfont 5}{section.0.5}}
 {\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {6}Discussion}{\reset@font\mtcSfont 6}{section.0.6}}
 {\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {7}Conclusions}{\reset@font\mtcSfont 7}{section.0.7}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode References}{\reset@font\mtcSfont 7}{section*.1}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode References}{\reset@font\mtcSfont 8}{section*.1}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode Appendices}{\reset@font\mtcSfont 9}{section*.2}}
 \tf@toc=\write5
 \openout5 = `main-report01.toc'.
 
@@ -1425,9 +1426,13 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 ] (calculationandanalysis.tex) [5
 
-] [6
+] (discussion.tex) [6
 
-]
+] (conclution.tex) [7
+
+] [8
+
+] (appendices.tes)
 Package minitoc Info: I0009
 (minitoc)             Listing minitoc auxiliary files. 
 (minitoc)             Creating the main-report01.maf file.
@@ -1449,7 +1454,7 @@ Package minitoc(hints) Warning: W0024
 (minitoc(hints))                Some hints have been written 
 (minitoc(hints))                in the main-report01.log file.
 
-[7
+[9
 
 ] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
@@ -1460,12 +1465,12 @@ L3 programming layer <2026-01-19>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 40523 strings out of 402982
- 817472 string characters out of 5448060
+ 40546 strings out of 402982
+ 817878 string characters out of 5448060
  1452938 words of memory out of 5000000
- 68651 multiletter control sequences out of 15000+600000
+ 68664 multiletter control sequences out of 15000+600000
  631056 words of font info for 72 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  89i,11n,118p,595b,2053s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main-report01.xdv (12 pages, 59220 bytes).
+Output written on main-report01.xdv (14 pages, 67948 bytes).
