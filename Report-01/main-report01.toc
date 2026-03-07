@@ -14,7 +14,7 @@
 \xpg@aux {}{english}
 \xpg@aux {}{english}
 \xpg@aux {}{english}
-\contentsline {section}{\numberline {1}Abstract}{1}{section.0.1}%
+\contentsline {chapter}{Abstract}{1}{section*.1}%
 \xpg@aux {}{english}
 \xpg@aux {}{english}
 \xpg@aux {}{english}
@@ -23,10 +23,7 @@
 \xpg@aux {}{english}
 \xpg@aux {}{english}
 \xpg@aux {}{english}
-\contentsline {section}{\numberline {2}Introduction}{2}{section.0.2}%
-\contentsline {subsection}{\numberline {2.1}objectives}{2}{subsection.0.2.1}%
-\contentsline {subsection}{\numberline {2.2}Background}{2}{subsection.0.2.2}%
-\contentsline {subsection}{\numberline {2.3}Standard References}{2}{subsection.0.2.3}%
+\contentsline {section}{\numberline {1}Tension Test (\textit {Essai de Traction})}{2}{section.0.1}%
 \xpg@aux {}{english}
 \xpg@aux {}{english}
 \xpg@aux {}{english}
@@ -35,7 +32,7 @@
 \xpg@aux {}{english}
 \xpg@aux {}{english}
 \xpg@aux {}{english}
-\contentsline {section}{\numberline {3}Materials and Methods}{3}{section.0.3}%
+\contentsline {section}{\numberline {2}Axial Compression Test (\textit {Essai de Compression Axiale})}{3}{section.0.2}%
 \xpg@aux {}{english}
 \xpg@aux {}{english}
 \xpg@aux {}{english}
@@ -44,7 +41,7 @@
 \xpg@aux {}{english}
 \xpg@aux {}{english}
 \xpg@aux {}{english}
-\contentsline {section}{\numberline {4}Results}{4}{section.0.4}%
+\contentsline {section}{\numberline {3}Local Compression Test (\textit {Essai de Compression Locale})}{4}{section.0.3}%
 \xpg@aux {}{english}
 \xpg@aux {}{english}
 \xpg@aux {}{english}
@@ -53,7 +50,7 @@
 \xpg@aux {}{english}
 \xpg@aux {}{english}
 \xpg@aux {}{english}
-\contentsline {section}{\numberline {5}Calculations \& Analysis }{5}{section.0.5}%
+\contentsline {section}{\numberline {4}Shear Test (\textit {Essai de Cisaillement})}{5}{section.0.4}%
 \xpg@aux {}{english}
 \xpg@aux {}{english}
 \xpg@aux {}{english}
@@ -62,7 +59,7 @@
 \xpg@aux {}{english}
 \xpg@aux {}{english}
 \xpg@aux {}{english}
-\contentsline {section}{\numberline {6}Discussion}{6}{section.0.6}%
+\contentsline {section}{\numberline {5}Bending Test (\textit {Essai de Flexion})}{6}{section.0.5}%
 \xpg@aux {}{english}
 \xpg@aux {}{english}
 \xpg@aux {}{english}
@@ -71,7 +68,7 @@
 \xpg@aux {}{english}
 \xpg@aux {}{english}
 \xpg@aux {}{english}
-\contentsline {section}{\numberline {7}Conclusions}{7}{section.0.7}%
+\contentsline {chapter}{References}{7}{section*.2}%
 \xpg@aux {}{english}
 \xpg@aux {}{english}
 \xpg@aux {}{english}
@@ -80,16 +77,7 @@
 \xpg@aux {}{english}
 \xpg@aux {}{english}
 \xpg@aux {}{english}
-\contentsline {section}{References}{8}{section*.1}%
-\xpg@aux {}{english}
-\xpg@aux {}{english}
-\xpg@aux {}{english}
-\xpg@aux {}{english}
-\xpg@aux {}{english}
-\xpg@aux {}{english}
-\xpg@aux {}{english}
-\xpg@aux {}{english}
-\contentsline {section}{Appendices}{9}{section*.2}%
+\contentsline {chapter}{Appendices}{8}{section*.3}%
 \xpg@aux {}{english}
 \xpg@aux {}{english}
 \xpg@aux {}{english}

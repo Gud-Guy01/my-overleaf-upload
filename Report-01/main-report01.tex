@@ -17,27 +17,24 @@
 %\includepdf[pages=-]{Cover (2)}
 % Include substructure file if present; otherwise continue without error
 \input{substructure-report01.tex}
-\section{Abstract}
+\phantomsection
+\markboth{Abstarct}{Abstract}
+\section*{Abstract}
+\addcontentsline{toc}{chapter}{Abstract}
 \input{abstract.tex}
 \clearpage
-\section{Introduction}
-\input{Intro.tex}
+\section{Tension Test (\textit{Essai de Traction})}
 \clearpage
-\section{Materials and Methods}
-\input{materialandmethod.tex}
+\section{Axial Compression Test (\textit{Essai de Compression Axiale})}
 \clearpage
-\section{Results}
-\input{result.tex}
+\section{Local Compression Test (\textit{Essai de Compression Locale})}
 \clearpage
-\section{Calculations \& Analysis }
-\input{calculationandanalysis.tex}
+\section{Shear Test (\textit{Essai de Cisaillement})}
 \clearpage
-\section{Discussion}
-\input{discussion.tex}
+\section{Bending Test (\textit{Essai de Flexion})}
 \clearpage
-\section{Conclusions}
-\input{conclution.tex}
-\clearpage
+
+
 %referennces
 \phantomsection %Creates a hyperlink anchor (jump to that page when click)
 \renewcommand{\chapter}{\section}
@@ -45,7 +42,7 @@
 \renewcommand{\bibname}{References}  % change Bibliography -> References globally
 %\thispagestyle{empty}  % optional: remove headers/footers
 \begin{thebibliography}{99}
-\addcontentsline{toc}{section}{References}
+\addcontentsline{toc}{chapter}{References}
 \bibitem{1} Let say it is References 1
 \bibitem{2} Let say it is References 2 ...
 \end{thebibliography}
@@ -56,7 +53,7 @@
 \phantomsection %Creates a hyperlink anchor (jump to that page when click)
 \section*{Appendices}
 \markright{Appendices} % still make markright work eventhough using \section*{}
-\addcontentsline{toc}{section}{Appendices}
-\input{appendices.tes}
+\addcontentsline{toc}{chapter}{Appendices}
+\input{appendices.tex}
 \end{document}
 %...existing code...
