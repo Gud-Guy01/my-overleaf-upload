@@ -866,9 +866,12 @@ INPUT abstract.tex
 INPUT .\Intro.tex
 INPUT .\Intro.tex
 INPUT Intro.tex
-INPUT .\procedure.tex
-INPUT .\procedure.tex
-INPUT procedure.tex
+INPUT .\materialandmethod.tex
+INPUT .\materialandmethod.tex
+INPUT materialandmethod.tex
+INPUT .\result.tex
+INPUT .\result.tex
+INPUT result.tex
 OUTPUT main-report01.maf
 INPUT .\main-report01.mtc
 INPUT .\main-report01.mtc
