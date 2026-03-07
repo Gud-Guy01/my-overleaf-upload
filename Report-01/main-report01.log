@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.1) (preloaded format=xelatex 2026.3.3)  7 MAR 2026 16:16
+This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.1) (preloaded format=xelatex 2026.3.3)  7 MAR 2026 16:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1273,7 +1273,7 @@ Package minitoc(hints) Warning: W0099
 
 Package minitoc Info: I0024
 (minitoc)             PREPARING MINITOCS FROM main-report01.toc on input line 14.
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \textbf {Abstract}}{\reset@font\mtcSfont 1}{section*.1}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode Abstract}{\reset@font\mtcSfont 1}{section*.1}}
 {\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {1}Tension Test (\textit {Essai de Traction})}{\reset@font\mtcSfont 2}{section.0.1}}
 {\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.1}Introduction}{\reset@font\mtcSSfont 2}{subsection.0.1.1}}
 {\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.2}Objective}{\reset@font\mtcSSfont 2}{subsection.0.1.2}}
@@ -1299,9 +1299,9 @@ Package minitoc Info: I0024
 {\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {5.2}Objective}{\reset@font\mtcSSfont 6}{subsection.0.5.2}}
 {\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {5.3}Calculations and Results}{\reset@font\mtcSSfont 6}{subsection.0.5.3}}
 {\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {5.4}Conclusion}{\reset@font\mtcSSfont 6}{subsection.0.5.4}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \textbf {General Conclusion}}{\reset@font\mtcSfont 7}{section*.2}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \textbf {References}}{\reset@font\mtcSfont 8}{section*.3}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \textbf {Appendices}}{\reset@font\mtcSfont 9}{section*.4}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode General Conclusion}{\reset@font\mtcSfont 7}{section*.2}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode References}{\reset@font\mtcSfont 8}{section*.3}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode Appendices}{\reset@font\mtcSfont 9}{section*.4}}
 \tf@toc=\write5
 \openout5 = `main-report01.toc'.
 
@@ -1509,10 +1509,10 @@ L3 programming layer <2026-01-19>
 Here is how much of TeX's memory you used:
  40622 strings out of 402982
  819588 string characters out of 5448060
- 1459931 words of memory out of 5000000
+ 1459943 words of memory out of 5000000
  68690 multiletter control sequences out of 15000+600000
  631080 words of font info for 75 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  89i,11n,118p,595b,2049s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main-report01.xdv (14 pages, 99376 bytes).
+Output written on main-report01.xdv (14 pages, 99628 bytes).

@@ -14,7 +14,7 @@
 \xpg@aux {}{english}
 \xpg@aux {}{english}
 \xpg@aux {}{english}
-\contentsline {section}{\textbf {Abstract}}{1}{section*.1}%
+\contentsline {section}{Abstract}{1}{section*.1}%
 \xpg@aux {}{english}
 \xpg@aux {}{english}
 \xpg@aux {}{english}
@@ -88,7 +88,7 @@
 \xpg@aux {}{english}
 \xpg@aux {}{english}
 \xpg@aux {}{english}
-\contentsline {section}{\textbf {General Conclusion}}{7}{section*.2}%
+\contentsline {section}{General Conclusion}{7}{section*.2}%
 \xpg@aux {}{english}
 \xpg@aux {}{english}
 \xpg@aux {}{english}
@@ -97,7 +97,7 @@
 \xpg@aux {}{english}
 \xpg@aux {}{english}
 \xpg@aux {}{english}
-\contentsline {section}{\textbf {References}}{8}{section*.3}%
+\contentsline {section}{References}{8}{section*.3}%
 \xpg@aux {}{english}
 \xpg@aux {}{english}
 \xpg@aux {}{english}
@@ -106,7 +106,7 @@
 \xpg@aux {}{english}
 \xpg@aux {}{english}
 \xpg@aux {}{english}
-\contentsline {section}{\textbf {Appendices}}{9}{section*.4}%
+\contentsline {section}{Appendices}{9}{section*.4}%
 \xpg@aux {}{english}
 \xpg@aux {}{english}
 \xpg@aux {}{english}
