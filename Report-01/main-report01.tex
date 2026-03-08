@@ -11,17 +11,12 @@
 % {\thesection}{1em}
 % {}
 % [\vspace{0.5ex}\rule{\textwidth}{0.4pt}]
+
 \titleformat{\section}
-{\Large\bfseries}
-{\thesection}{1em}
-{
-\begin{center}
-\rule{\textwidth}{0.4pt}\\[0.5ex]
-}
-[
-\\[0.5ex]\rule{\textwidth}{0.4pt}
-\end{center}
-]
+  {\Huge\bfseries\centering}          % format: centered, large, bold
+  {\thesection}                         % label: section number
+  {1em}{}                                 % sep between number and title
+  [\vspace{0.5ex}\color{blue}{\rule{\textwidth}{0.4pt}}]  % after-code: bottom rule
 
 \input{headerfooter-report01.tex}
 
