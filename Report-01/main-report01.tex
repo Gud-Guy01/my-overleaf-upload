@@ -6,17 +6,11 @@
 % Load project structure if available; don't fail LaTeX if file is missing
 \input{../Structure4all.tex}
 %section format.
-% \titleformat{\section}
-% {\centering\Large\bfseries}
-% {\thesection}{1em}
-% {}
-% [\vspace{0.5ex}\rule{\textwidth}{0.4pt}]
-
 \titleformat{\section}
   {\Huge\bfseries\centering}          % format: centered, large, bold
   {\thesection}                         % label: section number
   {1em}{}                                 % sep between number and title
-  [\vspace{0.5ex}\color{blue}{\rule{\textwidth}{0.4pt}}]  % after-code: bottom rule
+  [\vspace{0.5ex}\color{blue}{\rule{\textwidth}{0.1pt}}]  % after-code: bottom rule
 
 \input{headerfooter-report01.tex}
 
