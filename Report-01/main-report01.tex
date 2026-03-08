@@ -16,11 +16,12 @@
 
 % Format for unnumbered \section*
 \titleformat{name=\section, numberless} % redefine the starred \section* variant
-  {\Large\bfseries\centering}           % font: large, bold, centered
+  {\Large\bfseries}           % font: large, bold, centered
   {}                                    % label: empty (no number)
   {0em}                                 % sep: no space between label and title
-  {\noindent\color{blue!80}{\rule{\textwidth}{0.4pt}}\\} % before-code: top rule only, no number
-  [\vspace{-0.5em}\noindent\color{blue!80}{\rule{\textwidth}{0.4pt}}] % after-code: bottom rule
+  {\color{blue!80}{}}
+ % {\noindent\color{blue!80}{\rule{\textwidth}{0.4pt}}\\} % before-code: top rule only, no number
+ % [\vspace{-0.5em}\noindent\color{blue!80}{\rule{\textwidth}{0.4pt}}] % after-code: bottom rule
 \input{headerfooter-report01.tex}
 
 %------------------------%
