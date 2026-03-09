@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.1) (preloaded format=xelatex 2026.3.3)  9 MAR 2026 10:36
+This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.1) (preloaded format=xelatex 2026.3.3)  9 MAR 2026 10:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1450,9 +1450,12 @@ File: sample4/image/sampledimension.jpg Graphic file (type bmp)
 <sample4/image/sampledimension.jpg>
 File: sample4/image/sheartestsample.JPG Graphic file (type bmp)
 <sample4/image/sheartestsample.JPG>
-) [5
 
-] (sample4/conclusion.tex)) [6] (sample5/sample5.tex (sample5/introduction.tex) (sample5/objective.tex) (sample5/calculationandresult.tex) (sample5/conclusion.tex)) [7
+Underfull \vbox (badness 4060) has occurred while \output is active []
+
+ [5
+
+]) (sample4/conclusion.tex)) [6] (sample5/sample5.tex (sample5/introduction.tex) (sample5/objective.tex) (sample5/calculationandresult.tex) (sample5/conclusion.tex)) [7
 
 ] [8
 
@@ -1491,12 +1494,12 @@ L3 programming layer <2026-01-19>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 40763 strings out of 402982
- 823156 string characters out of 5448060
+ 40764 strings out of 402982
+ 823174 string characters out of 5448060
  1459114 words of memory out of 5000000
- 68814 multiletter control sequences out of 15000+600000
+ 68815 multiletter control sequences out of 15000+600000
  635757 words of font info for 97 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  89i,11n,118p,595b,2049s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main-report01.xdv (15 pages, 123404 bytes).
+Output written on main-report01.xdv (15 pages, 126288 bytes).
