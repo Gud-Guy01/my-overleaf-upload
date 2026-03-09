@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.1) (preloaded format=xelatex 2026.3.3)  9 MAR 2026 05:48
+This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.1) (preloaded format=xelatex 2026.3.3)  9 MAR 2026 09:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1303,9 +1303,9 @@ Package minitoc Info: I0024
 {\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {5.2}Objective}{\reset@font\mtcSSfont 7}{subsection.0.5.2}}
 {\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {5.3}Calculations and Results}{\reset@font\mtcSSfont 7}{subsection.0.5.3}}
 {\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {5.4}Conclusion}{\reset@font\mtcSSfont 7}{subsection.0.5.4}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode General Conclusion}{\reset@font\mtcSfont 8}{section*.3}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode References}{\reset@font\mtcSfont 9}{section*.4}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode Appendices}{\reset@font\mtcSfont 10}{section*.5}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode General Conclusion}{\reset@font\mtcSfont 8}{section*.4}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode References}{\reset@font\mtcSfont 9}{section*.5}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode Appendices}{\reset@font\mtcSfont 10}{section*.6}}
 \tf@toc=\write5
 \openout5 = `main-report01.toc'.
 
@@ -1446,13 +1446,16 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ] (sample3/sample3.tex (sample3/introduction.tex) (sample3/objective.tex) (sample3/calculationandresult.tex) (sample3/conclusion.tex)) [4
 
 ] (sample4/sample4.tex (sample4/introduction.tex) (sample4/objective.tex) (sample4/calculationandresult.tex
-Overfull \hbox (109.68236pt too wide) in paragraph at lines 5--12
+Overfull \hbox (109.68236pt too wide) in paragraph at lines 6--13
  [][] 
  []
 
-) (sample4/conclusion.tex)) [5
+[5
 
-] [6] (sample5/sample5.tex (sample5/introduction.tex) (sample5/objective.tex) (sample5/calculationandresult.tex) (sample5/conclusion.tex)) [7
+]
+File: sample4/image/sampledimension.jpg Graphic file (type bmp)
+<sample4/image/sampledimension.jpg>
+) (sample4/conclusion.tex)) [6] (sample5/sample5.tex (sample5/introduction.tex) (sample5/objective.tex) (sample5/calculationandresult.tex) (sample5/conclusion.tex)) [7
 
 ] [8
 
@@ -1491,12 +1494,12 @@ L3 programming layer <2026-01-19>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 40733 strings out of 402982
- 822272 string characters out of 5448060
- 1461113 words of memory out of 5000000
- 68789 multiletter control sequences out of 15000+600000
+ 40753 strings out of 402982
+ 822823 string characters out of 5448060
+ 1461114 words of memory out of 5000000
+ 68806 multiletter control sequences out of 15000+600000
  635757 words of font info for 97 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  89i,11n,118p,595b,2049s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main-report01.xdv (15 pages, 122004 bytes).
+Output written on main-report01.xdv (15 pages, 124124 bytes).
