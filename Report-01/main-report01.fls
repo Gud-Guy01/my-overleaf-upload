@@ -941,6 +941,9 @@ INPUT sample4\calculationandresult.tex
 INPUT .\sample4\image\sampledimension.jpg
 INPUT .\sample4\image\sampledimension.jpg
 INPUT .\sample4\image\sampledimension.jpg
+INPUT .\sample4\image\sheartestsample.JPG
+INPUT .\sample4\image\sheartestsample.JPG
+INPUT .\sample4\image\sheartestsample.JPG
 INPUT .\sample4\conclusion.tex
 INPUT .\sample4\conclusion.tex
 INPUT sample4\conclusion.tex
